@@ -1,5 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
-
+import { act } from 'react';
 
 export const CreatSlice = createSlice({
   name: 'cart',
